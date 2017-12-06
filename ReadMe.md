@@ -3,7 +3,7 @@ Thống kê các chi tiêu hằng ngày
 ### TRƯƠNG QUANG TUẤN -1512640
 #### Email: 1512640@student.hcmus.edu.vn
 
-Link: https://www.youtube.com/watch?v=dp8X4FBlVOM
+Link: https://www.youtube.com/watch?v=vGLKubpUC9c
 **I. Các chức năng**
 	1. Thêm vào danh sách một mục chi, gồm ba thành phần: Loại chi tiêu, nội dung chi, số tiền.
 	2. Xem lại danh sách các mục chi (Lưu và nạp dạng có dấu)
